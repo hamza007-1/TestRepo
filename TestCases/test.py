@@ -21,6 +21,8 @@ class Test_001_Registration:
         self.rP.clickRegisOK()
 
 
+    # for future use
+    def test_registration_l02(self,setup):
 
 
 
