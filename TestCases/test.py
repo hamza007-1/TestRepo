@@ -23,6 +23,7 @@ class Test_001_Registration:
 
     # for future use
     def test_registration_l02(self,setup):
+        self.rP.clickRegisOK()
 
 
 
